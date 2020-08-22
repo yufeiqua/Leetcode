@@ -1,4 +1,4 @@
-package com.leetcode.Google;
+package com.leetcode.Google.Interval;
 
 import java.util.*;
 
